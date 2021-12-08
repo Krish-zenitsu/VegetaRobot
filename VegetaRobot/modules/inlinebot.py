@@ -50,7 +50,7 @@ class AioHttp:
 
 __mod_name__ = "♦️Inline"
 __help__ = f"""
-INLINE BOT SERVICE OF @ALEXA_MANAGER_ROBOT
+INLINE BOT SERVICE OF 🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸
 I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.
 
 ──「 Syntax 」──

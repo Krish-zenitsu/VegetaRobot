@@ -35,16 +35,14 @@ __help__ = """
 » /userbotjoin - invite the userbot to join group
 » /userbotleave - order userbot to leave from group
 
-⚡️ Powered by Myself_sanskari_bacha AI
-
 ⚡️ Powered by alexa music
 
-* 🔷Assistent🔷 *
+* Assistent *
 
 @ALEXAASSISTANT
 
 * 🔸Bot🔸 *
 
-@ALEXA_MANAGER_ROBOT
+[🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸](t.me/ALEXA_MANAGER_ROBOT)
 """
 __mod_name__ = "🌸Music Player"

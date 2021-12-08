@@ -47,4 +47,4 @@ __help__ = """
 
 @ALEXA_MANAGER_ROBOT
 """
-__mod_name__ = "Music Player🌸"
+__mod_name__ = "🌸Music Player"

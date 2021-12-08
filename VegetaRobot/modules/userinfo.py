@@ -224,9 +224,9 @@ def info(update: Update, context: CallbackContext):
         return
 
     rep = message.reply_text(
-        "<code>Connecting to pegasus</code>", parse_mode=ParseMode.HTML)
+        "<code>ᴄᴏɴɴᴇxᴛɪɴɢ ᴛᴏ ᴀʟᴇxᴀ ʀᴏʙᴏᴛ</code>", parse_mode=ParseMode.HTML)
 
-    text = (f"╒═══「<b> Pegasus DB Userinfo:</b> 」\n"
+    text = (f"╒═══「<b> ᴀʟᴇxᴀ ᴅʙ ᴜsᴇʀɪɴғᴏ</b> 」\n"
             f"ID: <code>{user.id}</code>\n"
             f"First Name: {html.escape(user.first_name)}")
 
